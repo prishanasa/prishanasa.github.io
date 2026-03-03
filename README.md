@@ -11,8 +11,7 @@
 Hi, I'm **Prisha Nasa** — a Full Stack, AI/ML & DevOps engineer currently pursuing B.Tech in Computer Science at Manipal University Jaipur. I build things that sit at the intersection of intelligent systems, scalable infrastructure, and real-world impact.
 
 
-- 💼 Experience: **PwC Data Analytics Launchpad Trainee**
-                 **Software Engineer Intern @ AX Technosoft**
+- 💼 Experience: **PwC Data Analytics Launchpad Trainee** || **Software Engineer Intern @ AX Technosoft**
                  
 - 📄 Published at **Springer Nature UNI-TEAS 2026** International Conference
 - ⚙️ **Patent holder** — Laundry Management System
